@@ -8,7 +8,9 @@ Netlify :- https://airbnb-experiences-new.netlify.app/
 # Screenshots
 [App Screenshot](https://github.com/piyush932/Airbnb-Experiences/blob/cc2dab517b844ec21485ca4882673e686f096031/src/images/Airbnb-Experiences.png)
 
-Can be best viewed in 853*550 pixels# Getting Started with Create React App
+Can be best viewed in 853*550 pixels
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
